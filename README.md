@@ -1,7 +1,7 @@
 # Road Accident Project
 A road accident dashboard was created to explore how various factors caused accidents. 
 
-In this project, different enviroments were analysed to identify how the number of casualties changed depending on the following:
+In this project, different environments were analysed to identify how the number of casualties changed depending on the following:
 
 What type of vehicle had the most casualties?
 What was the severity of the casualties from 2022 -2023?
